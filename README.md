@@ -14,7 +14,7 @@ Tujuan utama proyek ini adalah:
 Dataset mentah yang digunakan dalam proyek ini adalah "Clash of Clans Mobile Game Reviews", yang berisi ulasan pengguna dari Google Play Store.
 
 Anda dapat mengunduh dan mengakses dataset ini secara publik melalui tautan berikut:
-[**SISIPKAN LINK PUBLIC DATASET ANDA DI SINI (misalnya dari Google Drive, Kaggle, dll.)**]
+[**https://www.kaggle.com/datasets/bagush/clash-of-clans-google-play-reviews/data**]
 
 ## Insight & Findings
 
