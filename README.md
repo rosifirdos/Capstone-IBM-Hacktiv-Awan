@@ -20,7 +20,7 @@ Anda dapat mengunduh dan mengakses dataset ini secara publik melalui tautan beri
 
 Berdasarkan analisis sentimen terhadap ulasan pengguna Clash of Clans, beberapa *insight* dan temuan kunci telah diidentifikasi:
 
-* **Dominasi Sentimen Positif:** Sebagian besar ulasan menunjukkan sentimen positif (sekitar 85.67%), mengindikasikan kepuasan tinggi di antara basis pemain. Ini menunjukkan bahwa fundamental game diterima dengan baik.
+* **Dominasi Sentimen Positif:** Sebagian besar ulasan menunjukkan sentimen positif (sekitar 84.59%), mengindikasikan kepuasan tinggi di antara basis pemain. Ini menunjukkan bahwa fundamental game diterima dengan baik.
 * **Korelasi Sentimen dengan Skor Ulasan:** Terdapat korelasi yang jelas antara sentimen yang diprediksi dengan skor ulasan asli (1-5 bintang). Ulasan dengan sentimen positif cenderung memiliki skor bintang tinggi (4-5), sementara sentimen negatif berkorelasi dengan skor bintang rendah (1-2).
 * **Tren Sentimen Stabil (Desember 2024 - Juni 2025):** Data menunjukkan distribusi sentimen yang relatif stabil dari waktu ke waktu dalam periode yang dianalisis, dengan sentimen positif secara konsisten mendominasi. Ini menyiratkan bahwa perubahan atau pembaruan game dalam periode ini tidak menyebabkan fluktuasi drastis dalam persepsi keseluruhan pengguna.
 * **Kata Kunci Positif Teratas:** Kata kunci yang paling sering muncul dalam ulasan positif mencakup istilah seperti "game", "bagus", "keren", "seru", dan "update". Ini menyoroti aspek-aspek inti dari pengalaman bermain yang disukai pemain. Kata kunci ini bisa menjadi fokus untuk kampanye pemasaran atau pengembangan fitur yang lebih jauh.
@@ -53,7 +53,7 @@ Proyek ini memanfaatkan **IBM Granite (Large Language Model)** melalui integrasi
 
 * **Relevansi dan Efektivitas Penggunaan AI:**
     * Penggunaan IBM Granite sangat relevan dengan kebutuhan proyek untuk mengekstrak wawasan dari volume data teks yang besar.
-    * Model ini menunjukkan akurasi yang baik (sekitar **85.67%** pada klasifikasi sentimen positif), menegaskan efektivitas AI dalam tugas ini. Meskipun tantangan mungkin muncul pada klasifikasi kelas minoritas (negatif dan netral), kinerja keseluruhan sangat berharga untuk memahami sentimen pemain secara umum.
+    * Model ini menunjukkan akurasi yang baik (sekitar **84.59%** pada klasifikasi sentimen positif), menegaskan efektivitas AI dalam tugas ini. Meskipun tantangan mungkin muncul pada klasifikasi kelas minoritas (negatif dan netral), kinerja keseluruhan sangat berharga untuk memahami sentimen pemain secara umum.
     * AI adalah *enabler* utama, mengubah data mentah yang tidak terstruktur menjadi wawasan yang terukur dan dapat ditindaklanjuti, yang berkontribusi pada pemahaman yang lebih baik tentang pengalaman pemain "Clash of Clans".
 
 ---
