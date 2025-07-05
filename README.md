@@ -27,6 +27,21 @@ Berdasarkan analisis sentimen terhadap ulasan pengguna Clash of Clans, beberapa 
 
 Temuan ini memberikan gambaran umum yang komprehensif tentang apa yang berhasil di Clash of Clans dan di mana potensi peningkatan mungkin ada, berdasarkan suara langsung dari basis pemainnya.
 
+## Conclusion & Recommendation
+Proyek analisis sentimen ulasan pengguna Clash of Clans ini telah berhasil mengidentifikasi pola sentimen utama dan faktor-faktor pendorongnya. Mayoritas ulasan menunjukkan sentimen positif yang kuat, mengindikasikan kepuasan tinggi terhadap pengalaman bermain inti dan pembaruan game.
+
+Berdasarkan insight yang ditemukan, berikut adalah beberapa rekomendasi konkret yang dapat ditindaklanjuti untuk pengembang game: 
+
+* **Pertahankan dan Perkuat Elemen Positif Inti:** Dengan sentimen positif yang didominasi oleh kata kunci seperti "game", "bagus", "keren", dan "seru", sangat penting untuk terus memprioritaskan dan menginovasi aspek-aspek inti yang membuat pemain bertahan dan menikmati permainan. Fokus pada gameplay yang solid dan pengalaman pengguna yang lancar.
+
+* **Manfaatkan "Update" sebagai Kekuatan Utama:** Kata "update" sering muncul dalam ulasan positif. Ini menunjukkan bahwa pemain menghargai pembaruan rutin. Pastikan pembaruan terus membawa konten segar, perbaikan bug, dan fitur yang relevan, serta komunikasikan detail pembaruan secara efektif kepada komunitas.
+
+* **Investigasi Lebih Lanjut Sentimen Negatif/Netral:** Meskipun jumlahnya kecil, ulasan negatif dan netral adalah tambang emas untuk perbaikan. Lakukan analisis mendalam pada ulasan-ulasan ini (misalnya dengan analisis kata kunci spesifik pada data negatif, atau peninjauan manual sampel acak) untuk mengidentifikasi masalah spesifik seperti bug, keseimbangan game, atau masalah monetisasi yang mungkin memicu ketidakpuasan.
+
+* **Integrasikan Analisis Sentimen sebagai Umpan Balik Berkelanjutan:** Dengan kemampuan klasifikasi sentimen berbasis AI, analisis ini dapat diimplementasikan sebagai sistem monitoring berkelanjutan. Hal ini memungkinkan tim pengembang untuk melacak perubahan sentimen secara real-time setelah pembaruan atau acara tertentu, memungkinkan respons cepat terhadap masalah yang muncul atau tren positif yang dapat dimanfaatkan.
+
+Dengan menerapkan rekomendasi ini, pengembang dapat terus meningkatkan kepuasan pemain, memperkuat fondasi game, dan mendorong pertumbuhan komunitas Clash of Clans di masa mendatang.
+
 ## AI Support Explanation
 
 Proyek ini memanfaatkan **IBM Granite (Large Language Model)** melalui integrasi Langchain untuk melakukan tugas kunci analisis sentimen.
