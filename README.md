@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Proyek ini bertujuan untuk melakukan analisis sentimen terhadap ulasan pengguna aplikasi game mobile "Clash of Clans" yang tersedia di Google Play Store. Dengan memanfaatkan kecerdasan buatan, khususnya model bahasa besar (LLM) IBM Granite, kami mengklasifikasikan ulasan-ulasan ini menjadi kategori sentimen (Positif, Negatif, Netral). Hasil analisis kemudian divisualisasikan dalam bentuk dashboard interaktif untuk mengidentifikasi tren, preferensi pengguna, dan area potensial untuk peningkatan game.
+Proyek ini bertujuan untuk melakukan analisis sentimen terhadap ulasan pengguna aplikasi game mobile "Clash of Clans" yang tersedia di Google Play Store. Dengan memanfaatkan kecerdasan buatan, khususnya model bahasa besar (LLM) IBM Granite, kami mengklasifikasikan ulasan-ulasan ini menjadi kategori sentimen (Positif, Negatif, Netral). Hasil analisis kemudian divisualisasikan dalam bentuk dashboard interaktif untuk mengidentifikasi tren, preferensi pengguna, dan area potensial untuk peningkatan game
 
 Tujuan utama proyek ini adalah:
 1.  Mengembangkan sistem klasifikasi sentimen menggunakan IBM Granite.
